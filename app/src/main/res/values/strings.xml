@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tel Login</string>
+    <string name="senha">Senha</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="cadastro">Ainda não tem cadastro?Cadastre-se</string>
+</resources>
